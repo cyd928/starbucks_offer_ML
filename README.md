@@ -13,4 +13,11 @@ This project is aimed to:
 - Data Analysis
 - Build Model
 
+## Analysis 
+The script for this analysis can be found in Starbucks_Capstone_notebook.ipynb via
+https://github.com/cyd928/starbucks_offer_ML
 
+
+## Result 
+Blog post to discuss the result of this analysis can be found via
+https://medium.com/@chenyudan0928/data-driven-insights-into-customer-behaviour-towards-starbucks-promotional-offers-6e2ae9cd13fd
